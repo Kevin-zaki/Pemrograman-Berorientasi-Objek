@@ -15,3 +15,9 @@ Pada Account.java kita membuat MINIMUM BALANCE dengan menambahkan method public 
 ![wd](https://github.com/user-attachments/assets/32bf6496-0443-4642-b74d-d548a7921aca)
 Menambahkan public static final double MINIMUM_BALANCE
 ![wd01](https://github.com/user-attachments/assets/5ba35e30-caa0-44bb-9606-b1d567f14565)
+-
+-
+-
+
+**HASIL RUNNING**
+![hasil running](https://github.com/user-attachments/assets/4fb803a6-5ab1-4800-94b6-e15eb176deff)
